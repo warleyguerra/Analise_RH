@@ -81,3 +81,35 @@ O notebook `Final.ipynb` serve como um resumo e comparação das abordagens toma
 ### Conclusão
 
 O notebook `Final.ipynb` serve como um resumo e ponto de comparação para as abordagens tomadas nas partes anteriores.
+
+## Sobre o F1-Score de 0.48
+
+Para fornecer uma explicação abrangente sobre por que um F1-Score de 0.48 é bom no contexto deste projeto, é importante considerar vários fatores:
+
+### Competitividade
+
+O melhor desempenho na competição foi de 0.53 e o modelo desenvolvido alcançou 0.48. Isso coloca o modelo como altamente competitivo, especialmente se muitos participantes estiverem envolvidos.
+
+### Desbalanceamento de Dados
+
+O projeto foca no tratamento do desbalanceamento de dados, um desafio comum em modelagem de machine learning. Conseguir um F1-Score relativamente alto em um conjunto de dados desbalanceado é um feito notável.
+
+### Complexidade do Modelo
+
+Foram exploradas técnicas para o ajuste de hiperparâmetros e utilizados modelos mais simples para evitar overfitting. Isso indica que o F1-Score foi otimizado e não é um resultado de um modelo overfitado.
+
+### Variedade de Modelos Testados
+
+O projeto não se limitou a um único tipo de modelo, mas tentou várias abordagens, desde Redes Neurais até Árvores de Decisão. Isso torna o F1-Score de 0.48 mais confiável como uma métrica de desempenho geral.
+
+### Iteração e Refinamento
+
+O projeto passou por várias iterações de modelagem e avaliação, cada uma focando em aspectos diferentes como balanceamento de dados e ajuste de hiperparâmetros. Isso sugere que o F1-Score foi alcançado após considerável refinamento e otimização.
+
+### Conclusão e Comparação Final
+
+O notebook final faz uma comparação direta entre os diferentes modelos e abordagens testados, consolidando o F1-Score como uma métrica de desempenho significativa.
+
+### Próximos Passos
+
+Mesmo que 0.48 seja um bom resultado, o projeto já está planejando como melhorar ainda mais esse número, o que mostra uma abordagem equilibrada para a solução de problemas.
