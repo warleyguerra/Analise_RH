@@ -1,11 +1,12 @@
-# Preparando um exemplo de conteúdo para o arquivo README.md
 
-readme_content = """
-# Projeto de Análise de RH com Machine Learning
+# Projeto de Análise de RH com Machine Learning ***Desafio do site analyticsvidhya***
 
 ## Introdução
 
 Este projeto tem como objetivo analisar dados de Recursos Humanos utilizando técnicas de Machine Learning. O projeto é dividido em várias partes, cada uma focando em um aspecto diferente da análise de dados e modelagem.
+
+# Sobre o problema prático: análise de RH
+A análise de RH está revolucionando a forma como os departamentos de recursos humanos operam, levando a maior eficiência e melhores resultados em geral. Os recursos humanos usam análises há anos. No entanto, a recolha, o processamento e a análise de dados têm sido em grande parte manuais e, dada a natureza da dinâmica dos recursos humanos e dos KPI de RH, a abordagem tem restringido os RH. Portanto, é surpreendente que os departamentos de RH tenham acordado para a utilidade do aprendizado de máquina tão tarde no jogo. Esta é uma oportunidade de experimentar a análise preditiva para identificar os funcionários com maior probabilidade de serem promovidos.
 
 ## Índice
 
