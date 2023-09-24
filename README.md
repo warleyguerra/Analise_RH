@@ -74,15 +74,3 @@ Explicar a necessidade de ajustar hiperparâmetros e testar modelos mais simples
 
 - Resumir as principais descobertas e próximos passos.
 
-## Licença
-
-Incluir informações sobre a licença, se aplicável.
-
-"""
-
-# Salvando o conteúdo em um arquivo README.md
-readme_path = '/mnt/data/README.md'
-with open(readme_path, 'w') as f:
-    f.write(readme_content)
-
-readme_path
