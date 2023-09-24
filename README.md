@@ -17,60 +17,67 @@ A análise de RH está revolucionando a forma como os departamentos de recursos 
 
 ## Parte 1: Tratamento de Dados e Modelagem Inicial
 
-### Introdução
+### Descrição
 
-Explicar o objetivo da análise e o conjunto de dados utilizado.
+O notebook `parte1.ipynb` foca no tratamento inicial dos dados e na modelagem inicial para um projeto de análise de RH. Ele começa importando várias bibliotecas essenciais e os dados necessários.
 
-### Tratamento de Dados
+#### Principais Etapas
 
-- Identificação e tratamento de valores nulos.
-- Alteração de tipos de colunas, se necessário.
-- Aplicação de One Hot Encoding para variáveis categóricas.
-
-### Modelagem Inicial
-
-- Escolha dos modelos de Machine Learning testados.
-- Treinamento e avaliação dos modelos usando métricas como F1_Score e Accuracy.
-
-## Parte 2: Tratando o Desbalanceamento de Dados
-
-### Introdução
-
-Explicar o problema do desbalanceamento no conjunto de dados.
-
-### Técnicas Utilizadas
-
-- Descrever as técnicas usadas para tratar o desbalanceamento (por exemplo, SMOTE, Undersampling, Oversampling).
-
-### Modelagem com Dados Balanceados
-
-- Treinamento e avaliação dos modelos nos dados balanceados.
-
-## Parte 3: Ajuste de Hiperparâmetros e Modelos Simples
-
-### Introdução
-
-Explicar a necessidade de ajustar hiperparâmetros e testar modelos mais simples.
-
-### Ajuste de Hiperparâmetros
-
-- Descrever o método usado para ajustar os hiperparâmetros (por exemplo, Grid Search, Random Search).
-
-### Modelos Simples
-
-- Apresentar os modelos mais simples testados para evitar overfitting.
-
-## Final: Comparação e Conclusão
-
-### Comparação dos Modelos
-
-- Fazer uma tabela ou gráfico comparando as métricas dos modelos em cada etapa.
-
-### Escolha do Modelo Final
-
-- Justificar a escolha do melhor modelo com base nas métricas e nos requisitos do projeto.
+1. **Importação de Bibliotecas e Dados**
+2. **Tratamento de Dados**
+3. **Modelagem Inicial**
+4. **Aplicação do Modelo em Dados de Teste**
 
 ### Conclusão
 
-- Resumir as principais descobertas e próximos passos.
+O notebook serve como uma introdução ao projeto, abordando as etapas iniciais de tratamento de dados e a aplicação de um modelo de machine learning.
 
+## Parte 2: Tratando o Desbalanceamento de Dados
+
+### Descrição
+
+O notebook `parte2.ipynb` se concentra no tratamento do desbalanceamento de dados e na modelagem subsequente.
+
+#### Principais Etapas
+
+1. **Importação de Bibliotecas e Dados**
+2. **Tratamento de Dados**
+3. **Balanceamento de Dados**
+4. **Modelagem com Dados Balanceados**
+
+### Conclusão
+
+Este notebook foca em tratar o problema de desbalanceamento de dados e treinar um modelo de Árvore de Decisão.
+
+## Parte 3: Ajuste de Hiperparâmetros e Modelos Simples
+
+### Descrição
+
+O notebook `parte3.ipynb` explora o ajuste de hiperparâmetros e a utilização de modelos mais simples para evitar o problema de overfitting.
+
+#### Principais Etapas
+
+1. **Importação de Bibliotecas e Dados**
+2. **Tratamento de Dados**
+3. **Ajuste de Hiperparâmetros**
+4. **Modelos Simples**
+
+### Conclusão
+
+Este notebook se foca em otimizar os modelos anteriores através do ajuste de hiperparâmetros e da utilização de modelos mais simples para evitar overfitting.
+
+## Final: Comparação e Conclusão
+
+### Descrição
+
+O notebook `Final.ipynb` serve como um resumo e comparação das abordagens tomadas nos notebooks anteriores.
+
+#### Principais Etapas
+
+1. **Importação de Bibliotecas e Dados**
+2. **Comparação de Modelos**
+3. **Escolha do Modelo Final**
+
+### Conclusão
+
+O notebook `Final.ipynb` serve como um resumo e ponto de comparação para as abordagens tomadas nas partes anteriores.
