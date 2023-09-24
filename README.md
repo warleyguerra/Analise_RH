@@ -113,3 +113,9 @@ O notebook final faz uma comparação direta entre os diferentes modelos e abord
 ### Próximos Passos
 
 Mesmo que 0.48 seja um bom resultado, o projeto já está planejando como melhorar ainda mais esse número, o que mostra uma abordagem equilibrada para a solução de problemas.
+
+### Acurácia de 90%
+
+Além de alcançar um F1-Score competitivo de 0.48, o modelo também obteve uma acurácia de 90%. A acurácia é uma métrica importante que mede a proporção de previsões corretas feitas pelo modelo em relação ao total de observações.
+
+A alta acurácia indica que o modelo não só é bom em equilibrar precisão e revocação (como mostrado pelo F1-Score), mas também é eficaz em fazer previsões corretas na maioria das vezes. Isso reforça a robustez do modelo e o torna ainda mais confiável para aplicações práticas.
