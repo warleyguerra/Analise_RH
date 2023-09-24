@@ -1,7 +1,7 @@
 
 # Projeto de Análise de RH com Machine Learning ***Desafio do site analyticsvidhya***
 
-### Introdução
+## Introdução
 
 Este projeto tem como objetivo analisar dados de Recursos Humanos utilizando técnicas de Machine Learning. O projeto é dividido em várias partes, cada uma focando em um aspecto diferente da análise de dados e modelagem.
 
