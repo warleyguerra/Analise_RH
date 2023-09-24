@@ -1,5 +1,5 @@
 
-# Projeto de Análise de RH com Machine Learning ***Desafio do site analyticsvidhya***
+# Projeto de Análise de RH com Machine Learning ***Desafio do site AnalyticsVidhya***
 
 ## Introdução
 
