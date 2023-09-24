@@ -9,7 +9,7 @@ Este projeto tem como objetivo analisar dados de Recursos Humanos utilizando té
 
 ## Índice
 
-- [Parte 1: Tratamento de Dados e Modelagem Inicial](https://github.com/warleyguerra/Analise_RH/blob/main/parte1.ipynb))
+- [Parte 1: Tratamento de Dados e Modelagem Inicial](https://github.com/warleyguerra/Analise_RH/blob/main/parte1.ipynb)
 - [Parte 2: Tratando o Desbalanceamento de Dados](https://github.com/warleyguerra/Analise_RH/blob/main/parte2.ipynb)
 - [Parte 3: Ajuste de Hiperparâmetros e Modelos Simples](https://github.com/warleyguerra/Analise_RH/blob/main/parte3.ipynb)
 - [Final: Comparação e Conclusão](https://github.com/warleyguerra/Analise_RH/blob/main/Final.ipynb)
